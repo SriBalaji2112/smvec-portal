@@ -1,0 +1,49 @@
+Activate my env
+sribalaji@sribalaji-2112:~/dragon/student_management/myenv$ source ./bin/activate
+
+personal information
+name (f, l)
+cource
+dept
+batch
+roll no
+reg no
+section
+gender
+blood group
+food
+student mob. no
+student mail id
+
+General information
+-------------------
+DOB
+caste
+community
+parent annual inc.
+religion
+nationality
+mother tongue
+
+Admission information
+--------------------
+date of admission
+admission allotment
+
+Visa information
+----------------
+visa no
+visa type
+expiry date
+
+
+
+Vijayakumar sir
+--------------
+lec-2024-1
+vnDjBdgen5
+
+My pass
+------
+ugr-2024-1 
+6tpYWbdV6Z
